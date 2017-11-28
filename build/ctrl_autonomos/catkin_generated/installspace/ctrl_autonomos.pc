@@ -1,0 +1,8 @@
+prefix=/home/robotica/Autonomos--robotica/install
+
+Name: ctrl_autonomos
+Description: Description of ctrl_autonomos
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/robotica/Autonomos--robotica/install/lib 
+Requires: roscpp sensor_msgs std_msgs

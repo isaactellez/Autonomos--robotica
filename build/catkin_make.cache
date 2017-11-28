@@ -1,0 +1,2 @@
+ctrl_autonomos
+-DCATKIN_DEVEL_PREFIX=/home/robotica/Autonomos--robotica/devel -DCMAKE_INSTALL_PREFIX=/home/robotica/Autonomos--robotica/install -G Unix Makefiles
