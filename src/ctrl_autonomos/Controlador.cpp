@@ -74,10 +74,10 @@ int main (int argc, char **argv){
 	nh.param<float>("kp", kp, 1);
 	ROS_INFO_STREAM("The steering kp values is: " << kp);
 
-	nh.param<float>("ka", ka, 15);
+	nh.param<float>("ka", ka, 0.1);
 	ROS_INFO_STREAM("The steering ka values is: " << ka);
 
-	nh.param<float>("kb", kb, 15);
+	nh.param<float>("kb", kb, -0.1);
 	ROS_INFO_STREAM("The steering kb values is: " << kb);
 
 	// ROS_INFO_STREAM
