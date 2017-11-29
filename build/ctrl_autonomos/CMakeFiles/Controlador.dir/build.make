@@ -90,6 +90,11 @@ Controlador_EXTERNAL_OBJECTS =
 
 /home/robotica/Autonomos--robotica/devel/lib/ctrl_autonomos/Controlador: ctrl_autonomos/CMakeFiles/Controlador.dir/Controlador.cpp.o
 /home/robotica/Autonomos--robotica/devel/lib/ctrl_autonomos/Controlador: ctrl_autonomos/CMakeFiles/Controlador.dir/build.make
+/home/robotica/Autonomos--robotica/devel/lib/ctrl_autonomos/Controlador: /opt/ros/kinetic/lib/libtf.so
+/home/robotica/Autonomos--robotica/devel/lib/ctrl_autonomos/Controlador: /opt/ros/kinetic/lib/libtf2_ros.so
+/home/robotica/Autonomos--robotica/devel/lib/ctrl_autonomos/Controlador: /opt/ros/kinetic/lib/libactionlib.so
+/home/robotica/Autonomos--robotica/devel/lib/ctrl_autonomos/Controlador: /opt/ros/kinetic/lib/libmessage_filters.so
+/home/robotica/Autonomos--robotica/devel/lib/ctrl_autonomos/Controlador: /opt/ros/kinetic/lib/libtf2.so
 /home/robotica/Autonomos--robotica/devel/lib/ctrl_autonomos/Controlador: /opt/ros/kinetic/lib/libroscpp.so
 /home/robotica/Autonomos--robotica/devel/lib/ctrl_autonomos/Controlador: /usr/lib/x86_64-linux-gnu/libboost_signals.so
 /home/robotica/Autonomos--robotica/devel/lib/ctrl_autonomos/Controlador: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so

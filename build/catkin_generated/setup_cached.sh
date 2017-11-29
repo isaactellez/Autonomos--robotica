@@ -7,8 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/robotica/Autonomos--robotica/devel:$CMAKE_PREFIX_PATH"
-export LD_LIBRARY_PATH="/home/robotica/Autonomos--robotica/devel/lib:$LD_LIBRARY_PATH"
 export PWD="/home/robotica/Autonomos--robotica/build"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/robotica/Autonomos--robotica/devel/share/common-lisp"
-export ROS_PACKAGE_PATH="/home/robotica/Autonomos--robotica/src:$ROS_PACKAGE_PATH"

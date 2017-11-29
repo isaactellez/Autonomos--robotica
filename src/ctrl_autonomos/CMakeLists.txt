@@ -9,6 +9,9 @@ project(ctrl_autonomos)
 ## is used, also find other catkin packages
 # find_package(catkin REQUIRED)
 find_package(catkin REQUIRED COMPONENTS 
+	tf2_ros
+	tf
+	tf2
 	roscpp
 	std_msgs
 	geometry_msgs
@@ -119,7 +122,7 @@ catkin_package(
     	roscpp
     	sensor_msgs
     	std_msgs
-		# tf
+		tf
 	# DEPENDS
 	 #    Boost
 	 #    Eigen

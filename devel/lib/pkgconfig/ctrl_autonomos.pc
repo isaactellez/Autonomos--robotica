@@ -5,4 +5,4 @@ Description: Description of ctrl_autonomos
 Version: 0.0.0
 Cflags: 
 Libs: -L/home/robotica/Autonomos--robotica/devel/lib 
-Requires: roscpp sensor_msgs std_msgs
+Requires: roscpp sensor_msgs std_msgs tf
